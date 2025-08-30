@@ -637,6 +637,19 @@
         "amenities": ["DEF", "Ethanol-Free Fuel", "Tesla Supercharger"]
     },
     {
+        "id": 61,
+        "name": "Harrison County, MS",
+        "address": "8245 Firetower Road",
+        "city": "Pass Christian", 
+        "state": "MS",
+        "zip": "39571",
+        "coordinates": {
+            "latitude":  30.40524845900588, 
+            "longitude": -89.24994364907528 
+        },
+        "amenities": ["DEF", "Ethanol-Free Fuel 87 Octane", "Ethanol-Free fuel 93 Octane", "Tesla Supercharger", "Connector Type: NACS"]
+    },
+    {
         "id": 62,
         "name": "Springfield, MO",
         "address": "3284 E Bucees Blvd",
