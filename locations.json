@@ -670,8 +670,8 @@
         "state": "GA",
         "zip": "31525",
         "coordinates": {
-            "latitude": 37.2333,
-            "longitude": -93.2833
+            "latitude": 31.30661050100982,
+            "longitude": -81.47604763558219
         },
         "amenities": ["DEF", "Ethanol-Free Fuel"]
     },
