@@ -257,7 +257,7 @@
             "latitude": 30.1167,
             "longitude": -97.3167
         },
-        "amenities": ["DEF", "Ethanol-Free Fuel, Tesla Supercharger"]
+        "amenities": ["DEF", "Ethanol-Free Fuel", "Tesla Supercharger"]
     },
     {
         "id": 29,
