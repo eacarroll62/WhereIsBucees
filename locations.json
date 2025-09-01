@@ -663,6 +663,19 @@
         "amenities": ["DEF", "Ethanol-Free Fuel"]
     },
     {
+        "id": 63,
+        "name": "Brunswick, GA",
+        "address": "6900 Hwy 99",
+        "city": "Brunswick",
+        "state": "GA",
+        "zip": "31525",
+        "coordinates": {
+            "latitude": 37.2333,
+            "longitude": -93.2833
+        },
+        "amenities": ["DEF", "Ethanol-Free Fuel"]
+    },
+    {
         "id": 66,
         "name": "Amarillo, TX",
         "address": "9900 East Interstate 40",
