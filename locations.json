@@ -661,7 +661,33 @@
             "longitude": -93.2833
         },
         "amenities": ["DEF", "Ethanol-Free Fuel"]
+    },
+    {
+        "id": 66,
+        "name": "Amarillo, TX",
+        "address": "9900 East Interstate 40",
+        "city": "Amarillo",
+        "state": "TX",
+        "zip": "79118",
+        "coordinates": {
+            "latitude": 35.19179252985564,
+            "longitude": -101.72216504907529
+        },
+        "amenities": ["DEF", "Ethanol-Free Fuel"]
+    },
+    {
+        "id": 69,
+        "name": "Rockingham County, VA",
+        "address": "6500 Buc-ee's Blvd",
+        "city": "Mount Crawford",
+        "state": "VA",
+        "zip": "22841",
+        "coordinates": {
+            "latitude": 38.35474930797655,
+            "longitude": -78.92627602023964
+        },
+        "amenities": ["DEF", "Ethanol-Free Fuel"]
     }
 ]
- 
- 
+
+  
