@@ -700,6 +700,18 @@
             "longitude": -78.92627602023964
         },
         "amenities": ["DEF", "Ethanol-Free Fuel"]
+    },
+    {
+        "id": 99,
+        "name": "Eric's Bucee's",
+        "address": "",
+        "city": "Plainfield",
+        "state": "IN",
+        "coordinates": {
+            "latitude": 39.7,
+            "longitude": -86.4
+        },
+        "amenities": []
     }
 ]
 
